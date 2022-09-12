@@ -6,7 +6,8 @@
 ### I am in no way affiliated with greenwich crew. This is an individual project for which they can accept licensing to. 
 
 # Versions
-* Alpha.0.0.0 (CURRENT)
+* pre.0.1.4 (CURRENT)
+* pre.0.0.0 
 
 
 # Contact
