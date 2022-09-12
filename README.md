@@ -1,16 +1,6 @@
 # Greenwich Crew (New Website)
-<p align="center">
-  <a href="https://github.com/Blooketware/BlooketUI/blob/main/LICENSE/">
-    <img src="https://img.shields.io/badge/license-MIT-important">
-  </a>
-  <a>
-  <a href="https://github.com/Blooketware/BlooketUI/blob/main/src.js/">
-      <img src="https://img.shields.io/badge/status-works-brightgreen">
-  </a>
-  <a href="https://opensource.org/">
-      <img src="https://img.shields.io/badge/Open%20Source-true-blue">
-  </a>
-</p>
+
+
 ## Made by Carson Sernick
 #### Used with **BootStrap**, a library for making coding easy and fun. 
 
