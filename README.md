@@ -1,7 +1,7 @@
 # Greenwich Crew (New Website)
 <p align="center">
   <a href="https://github.com/Blooketware/BlooketUI/blob/main/LICENSE/">
-    <img src="https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-important">
+    <img src="https://img.shields.io/badge/license-MIT-important">
   </a>
   <a>
   <a href="https://github.com/Blooketware/BlooketUI/blob/main/src.js/">
