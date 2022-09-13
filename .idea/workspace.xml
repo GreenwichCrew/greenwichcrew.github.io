@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e2d1fa-a71a-41b2-aeb6-a82d03787491" name="Changes" comment="Fixed the FAQ problems!">
-      <change afterPath="$PROJECT_DIR$/scholar/scholar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99e2d1fa-a71a-41b2-aeb6-a82d03787491" name="Changes" comment="Added Scholarship Information">
+      <change beforePath="$PROJECT_DIR$/abt/coaches.html" beforeDir="false" afterPath="$PROJECT_DIR$/abt/coaches.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abt/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/abt/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adult/private.html" beforeDir="false" afterPath="$PROJECT_DIR$/adult/private.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scholar/scholar.html" beforeDir="false" afterPath="$PROJECT_DIR$/scholar/scholar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/high.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/high.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/middle.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/middle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/recreational.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/recreational.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/summercamp.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/summercamp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youth/summercomp.html" beforeDir="false" afterPath="$PROJECT_DIR$/youth/summercomp.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663030549361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Scholarship Information">
+      <created>1663081134536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663081134536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed the FAQ problems!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed the FAQ problems!" />
+    <MESSAGE value="Added Scholarship Information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scholarship Information" />
   </component>
 </project>
